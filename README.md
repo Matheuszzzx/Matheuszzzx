@@ -11,13 +11,11 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" height="80" title="MySQL"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="80" height="80" title="PostgreSQL"/>
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="80" height="80" title="MongoDB"/>
 </p>
 
 <p align="center">
-  <b>SQL • MySQL • PostgreSQL • MongoDB • Modelagem de Dados</b>
+  <b>SQL • MySQL • MongoDB • Modelagem de Dados</b>
 </p>
 
 ---
@@ -45,8 +43,6 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" title="MySQL"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55" title="PostgreSQL"/>
-  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55" title="MongoDB"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" title="Git"/>
@@ -55,13 +51,13 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" title="VS Code"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="55" height="55" title="Power BI"/>
+  <img src="https://img.icons8.com/color/96/power-bi.png" width="55" height="55" title="Power BI"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="55" height="55" title="Excel"/>
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="55" height="55" title="Excel"/>
 </p>
 
 <p align="center">
-  <b>MySQL • PostgreSQL • MongoDB • Git • GitHub • VS Code • Power BI • Excel</b>
+  <b>MySQL • MongoDB • Git • GitHub • VS Code • Power BI • Excel</b>
 </p>
 
 ---
