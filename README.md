@@ -4,10 +4,6 @@
   💻 Desenvolvedor em formação • 🗄️ Banco de Dados • 🤖 Inteligência Artificial
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue&style=flat-square&label=Profile+Views"/>
-</p>
-
 ---
 
 <h2 align="center">🗄️ Database</h2>
@@ -29,11 +25,7 @@
 <h2 align="center">💻 Languages & Development</h2>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70" height="70" title="Java"/>
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" height="65" title="JavaScript"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="65" height="65" title="TypeScript"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" title="Python"/>
 </p>
@@ -44,8 +36,6 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" title="Python"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="65" height="65" title="TensorFlow"/>
 </p>
 
 ---
@@ -68,7 +58,8 @@
   🗄️ Banco de Dados &nbsp; • &nbsp;
   🔎 SQL &nbsp; • &nbsp;
   🍃 MongoDB &nbsp; • &nbsp;
-  ☕ Java &nbsp; • &nbsp;
+  💛 JavaScript &nbsp; • &nbsp;
+  🐍 Python &nbsp; • &nbsp;
   🤖 IA
 </p>
 
