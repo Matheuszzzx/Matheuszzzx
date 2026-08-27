@@ -20,7 +20,7 @@
 
 ---
 
-<h2 align="center">💻 Languages</h2>
+<h2 align="center"> Languages</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" height="65" title="JavaScript"/>
@@ -30,7 +30,7 @@
 
 ---
 
-<h2 align="center">🤖 Artificial Intelligence</h2>
+<h2 align="center"> IA </h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" title="Python"/>
@@ -62,7 +62,7 @@
 
 ---
 
-<h2 align="center">📚 Currently Learning</h2>
+<h2 align="center">Aprendizado Continuo</h2>
 
 <p align="center">
   🗄️ Database &nbsp; • &nbsp;
