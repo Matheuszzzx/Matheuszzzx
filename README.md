@@ -22,7 +22,7 @@
 
 ---
 
-<h2 align="center">💻 Languages & Development</h2>
+<h2 align="center">💻 Languages</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" height="65" title="JavaScript"/>
@@ -40,39 +40,41 @@
 
 ---
 
-<h2 align="center">🛠️ Tools</h2>
+<h2 align="center">🛠️ Tools & Database</h2>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" title="Git"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" title="GitHub"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" title="MySQL"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55" title="PostgreSQL"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55" title="MongoDB"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" title="Git"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" title="GitHub"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" title="VS Code"/>
 </p>
 
 ---
 
-<h2 align="center">📚 Atualmente estudando</h2>
+<h2 align="center">📚 Currently Learning</h2>
 
 <p align="center">
-  🗄️ Banco de Dados &nbsp; • &nbsp;
+  🗄️ Database &nbsp; • &nbsp;
   🔎 SQL &nbsp; • &nbsp;
   🍃 MongoDB &nbsp; • &nbsp;
   💛 JavaScript &nbsp; • &nbsp;
   🐍 Python &nbsp; • &nbsp;
-  🤖 IA
+  🤖 AI
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub</h2>
+<h2 align="center">🎯 Focus</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+  <b>Database Development • SQL • Data Modeling • NoSQL • AI</b>
 </p>
 
 ---
