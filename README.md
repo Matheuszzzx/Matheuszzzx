@@ -54,6 +54,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" title="GitHub"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" title="VS Code"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="55" height="55" title="Power BI"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="55" height="55" title="Excel"/>
+</p>
+
+<p align="center">
+  <b>MySQL • PostgreSQL • MongoDB • Git • GitHub • VS Code • Power BI • Excel</b>
 </p>
 
 ---
@@ -66,19 +74,7 @@
   🍃 MongoDB &nbsp; • &nbsp;
   💛 JavaScript &nbsp; • &nbsp;
   🐍 Python &nbsp; • &nbsp;
-  🤖 AI
+  🤖 AI &nbsp; • &nbsp;
+  📊 Power BI &nbsp; • &nbsp;
+  📗 Excel
 </p>
-
----
-
-<h2 align="center">🎯 Focus</h2>
-
-<p align="center">
-  <b>Database Development • SQL • Data Modeling • NoSQL • AI</b>
-</p>
-
----
-
-<h3 align="center">
-  🚀 Sempre aprendendo, desenvolvendo e trabalhando com dados.
-</h3>
